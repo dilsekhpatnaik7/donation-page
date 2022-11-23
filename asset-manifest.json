@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/donation-page/static/css/main.ded163e0.css",
+    "main.js": "/donation-page/static/js/main.b711a458.js",
+    "static/media/hunger.jpg": "/donation-page/static/media/hunger.207af1d44976d3a5f9d5.jpg",
+    "index.html": "/donation-page/index.html",
+    "main.ded163e0.css.map": "/donation-page/static/css/main.ded163e0.css.map",
+    "main.b711a458.js.map": "/donation-page/static/js/main.b711a458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded163e0.css",
+    "static/js/main.b711a458.js"
+  ]
+}
